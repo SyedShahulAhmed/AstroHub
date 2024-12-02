@@ -1,5 +1,5 @@
 import React from 'react'
-import contact from '../assets/Icons/Contact.png'
+import contact from '../assets/Icons/contact.png'
 const Contact = () => {
   return (
    <div className='max-w-[1240px] mx-auto '>
