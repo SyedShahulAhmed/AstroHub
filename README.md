@@ -4,13 +4,15 @@ AstroHub Blog is a **responsive and user-friendly blogging website** created usi
 
 ---
 
+🌐 **[Live Demo](https://astrohub-omega.vercel.app/)** 👈  
+> Click the link to explore the Blog page and see the features in action!  
+
+
 ## 🌟 Features  
 
 - 🖥️ **Responsive Design**: Optimized for mobile, tablet, and desktop devices.  
 - 📰 **Dynamic Content**: Displays engaging blog posts with titles, descriptions, and featured images.  
 - ⚙️ **Modern Tech Stack**: Built with React for a seamless user experience.  
-
----
 
 ## 📄 Pages  
 
@@ -25,7 +27,6 @@ AstroHub Blog is a **responsive and user-friendly blogging website** created usi
 - **📞 Contact**:  
   A form for users to get in touch or leave feedback.  
 
----
 
 ## 🚀 Technologies Used  
 
@@ -37,7 +38,6 @@ AstroHub Blog is a **responsive and user-friendly blogging website** created usi
   - ⭐ FontAwesome for icons  
   - ✍️ Google Fonts for typography  
 
----
 
 ## 🛠️ Setup and Installation  
 
@@ -59,8 +59,6 @@ AstroHub Blog is a **responsive and user-friendly blogging website** created usi
 
 4. Open the application in your browser at the provided local URL.  
 
----
-
 ## 🎨 Screenshots  
 
 ### 🏠 Home Page:  
@@ -78,8 +76,6 @@ AstroHub Blog is a **responsive and user-friendly blogging website** created usi
 ### 📞 Contact Page:  
 ![Contact Page](./src/Preview/img5.png)  
 
-
----
 
 ## 🤝 Contributing  
 
